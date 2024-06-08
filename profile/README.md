@@ -15,22 +15,22 @@ Encrypta offers a comprehensive range of products and solutions tailored to meet
 
 ### 1. Encrypta Auth
 Secured Authentication System for Encrypta and Associated Encrypta Auth Enabled Authentication Systems.
-##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Encrypta_Auth)
-##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App-Encrypta_Auth)
+<!-- ##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Encrypta_Auth) -->
+<!-- ##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App-Encrypta_Auth) -->
 #### [Production](http://accounts.encrypta.in/)
 
 ### 2. Encrypta Outlet
 
 Secured Outlet and Payment Features for purchases, checkouts and invoicing for Encrypta and Associated Service purchases.
-##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-OUTLET)
+<!-- ##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-OUTLET) -->
 ##### [Production](http://outlet.encrypta.in/)
 
 
 ### 3. Encrypta Password Manager
 
 
-##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Password_Manager)
-##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App_Password_Manager)
+<!-- ##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Password_Manager) -->
+<!-- ##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App_Password_Manager) -->
 #### [Production](http://passwordmanager.encrypta.in/)
 
 
@@ -38,16 +38,16 @@ Secured Outlet and Payment Features for purchases, checkouts and invoicing for E
 ### 4. Encrypta Enterprises
 
 
-##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Enterprise)
-##### [Repository](https://github.com/EncryptaIN/Enterprise-Application)
+<!-- ##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Enterprise)
+##### [Repository](https://github.com/EncryptaIN/Enterprise-Application) -->
 #### [Production](http://enterprises.encrypta.in/)
 
 
 
 ### 5. Encrypta Account Profile
 
-##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Encrypta_Auth)
-##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App-User_Profile)
+<!-- ##### [Repository](https://github.com/EncryptaIN/ENCRYPTA.IN_APPLICATION-Encrypta_Auth) -->
+<!-- ##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App-User_Profile) -->
 #### [Production](http://accounts.encrypta.in/Account)
 
 
