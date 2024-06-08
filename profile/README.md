@@ -50,6 +50,14 @@ Secured Outlet and Payment Features for purchases, checkouts and invoicing for E
 ##### [Repository](https://github.com/EncryptaIN/Encrypta-in_Client-App-User_Profile)
 #### [Production](http://accounts.encrypta.in/Account)
 
+
+
+### 6. Encrypta Browser Companion [Chromium Build]
+
+Introducing the Encrypta Browser Companion – your trusted ally in the world of secure online browsing. Designed to provide you with seamless and protected browsing. One of Encrypta's finest, ensuring your online interactions not only effortless but also fortified with top-notch security measures. Explore the convenience and peace of mind that Encrypta brings to your digital life today.
+##### [BETA-Releases](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion/releases/tag/Beta-Release)
+##### [Installation](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion/tree/main#manual-installation-steps)
+#### [Repository](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion.git)
 <!--
 ## Solutions
 
