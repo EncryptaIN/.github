@@ -57,6 +57,7 @@ Secured Outlet and Payment Features for purchases, checkouts and invoicing for E
 Introducing the Encrypta Browser Companion – your trusted ally in the world of secure online browsing. Designed to provide you with seamless and protected browsing. One of Encrypta's finest, ensuring your online interactions not only effortless but also fortified with top-notch security measures. Explore the convenience and peace of mind that Encrypta brings to your digital life today.
 ##### [BETA-Releases](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion/releases/tag/Beta-Release)
 ##### [Installation](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion/tree/main#manual-installation-steps)
+#### [Release Notes](https://demo.extension.encrypta.in/Release/V1.1.2)
 #### [Repository](https://github.com/EncryptaIN/Encrypta.in_Browser-Companion.git)
 <!--
 ## Solutions
